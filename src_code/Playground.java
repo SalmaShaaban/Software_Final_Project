@@ -32,6 +32,7 @@ class Playground {
 
     void setNprice(int night) {
         NightPrice = night;
+        
     }
 
     void setAvlHours(int H) {
